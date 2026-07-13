@@ -1,4 +1,6 @@
-/*Given an array arr[] of distinct integers and a value sum, find the count of triplets (i, j, k), having (i<j<k) with the sum of (arr[i] + arr[j] + arr[k]) smaller than the given value sum.
+/*Given an array arr[] of distinct integers and a value sum, find the count of 
+triplets (i, j, k), having (i<j<k) with the sum of (arr[i] + arr[j] + arr[k]) 
+smaller than the given value sum.
 
 Examples :
 
